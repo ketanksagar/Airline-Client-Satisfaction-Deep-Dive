@@ -1,8 +1,6 @@
 ---
 "ML Project: Airline Passenger Satisfaction"
-\n author: "Ketan Kshirsagar"
-date: "2024-11-12"
-output: html_document
+author: "Ketan Kshirsagar"
 ---
 
 
