@@ -1,3 +1,12 @@
+---
+"ML Project: Airline Passenger Satisfaction"
+author: "Ketan Kshirsagar"
+date: "2024-11-12"
+output: html_document
+---
+
+
+
 Includes the following models and analysis:
 Logistic Regression
 Logistic Regression with interactive terms
@@ -7,12 +16,7 @@ Decision Tree
 Random Forest
 
 
----
-title: "ML Project: Airline Passenger Satisfaction"
-author: "Liv Marcinkus, Giulia Neves Monteiro, and Ruthie Montella"
-date: "2024-11-12"
-output: html_document
----
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
