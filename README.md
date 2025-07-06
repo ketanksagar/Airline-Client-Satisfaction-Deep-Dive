@@ -1,6 +1,6 @@
 ---
 "ML Project: Airline Passenger Satisfaction"
-author: "Ketan Kshirsagar"
+\n author: "Ketan Kshirsagar"
 date: "2024-11-12"
 output: html_document
 ---
